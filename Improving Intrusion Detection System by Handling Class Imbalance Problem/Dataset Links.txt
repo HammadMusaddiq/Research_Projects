@@ -1,0 +1,10 @@
+NSL-KDD|Datasets|Research|Canadian Institute for Cybersecurity|UNB. Available online: https://www.
+unb.ca/cic/datasets/nsl.html (accessed on 26 December 2019).
+
+https://www.openml.org/search?type=data&sort=runs&id=1113&status=active 
+(KDDCup99 10% stratified subsample of the data from the 1999 ACM KDD Cup)
+
+https://github.com/glglgithub/CyberSecurity-A-Study-with-KDD99-Dataset (used) (both almost same) (10 percent)
+
+X https://archive.ics.uci.edu/ml/machine-learning-databases/kddcup99-mld/kddcup99.html
+
